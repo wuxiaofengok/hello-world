@@ -1,2 +1,6 @@
 # hello-world
-Creat repository names are short and memorable, Need inspiration? How about petulant-shame.
+
+Hi humans!
+
+Hubot here,I like Node.js and Coffeescript(that's what I'm made of!).
+I've had tatoks on the moon and find them far superior to Earth tacos.
